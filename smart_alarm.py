@@ -5,8 +5,6 @@ import numpy as np
 import pygame
 import sys
 from tkinter import Tk, filedialog
-
-# ----------------- Alarm -----------------
 def play_alarm():
     pygame.mixer.init()
     try:
